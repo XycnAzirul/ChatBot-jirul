@@ -10,15 +10,15 @@
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": "kenkanasw"
+      "value": "azirulfariq"
     },
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
-      "value": "musikkugroup"
+      "value": "temanbercakapofficial"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
-      "value": "musikkuchannel"
+      "value": "azirul_fariq"
     }
   },
   "addons": [
